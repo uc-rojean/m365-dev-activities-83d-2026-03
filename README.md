@@ -300,3 +300,47 @@
 - Full review of Microsoft’s new guide planned for a weekday session when more time is available.
 
 ---
+
+
+### UC Day 08 – 75 days remaining (March 11, 2026, Tuesday) – Documentation-only (SPO Admin Access Investigation)
+
+- **Planned Date:** March 11, 2026 (75 days remaining)
+- **Actual Run:** March 11, 2026 – [add time] GMT+8
+- **Status:** Completed (documentation-only; high-pressure day, investigation focused)
+
+#### Situation / Context
+- Today’s session was dedicated to troubleshooting the long-standing SharePoint / OneDrive Access Denied issue that started in October 2025.
+- This issue has now persisted for ~5 months and continues to heavily impact tenant operations and stored files (~50TB).
+- SharePoint Administrator role was already assigned earlier; however, SPO Admin Center and OneDrive Admin remain inaccessible.
+- PowerShell troubleshooting was attempted following Microsoft's latest instructions.
+
+#### Actions Performed Today (March 11, 2026)
+- Used **Windows PowerShell 5.1 (Run as Admin)** for compatibility with the SPO module.
+- Successfully loaded the **SharePoint Online Management Shell** module.
+- Cleared authentication token caches:
+  - `%localappdata%/Microsoft/IdentityCache`
+  - `%localappdata%/Microsoft/OneAuth`
+- Followed Microsoft’s cool-down guidelines for throttling.
+- Attempted multiple `Connect-SPOService` connections:
+  - `https://l3y8-admin.sharepoint.com` → returned **(429)** consistently  
+  - `https://admin.sharepoint.com` → returned **"Could not connect to SharePoint Online."**
+- Due to persistent throttling + failure of both admin endpoints, the next steps (Set-SPOUser, Remove-SPOUser) could not be executed.
+
+#### Microsoft Support Update
+- A detailed email reply was sent to Microsoft Support summarizing:
+  - All completed steps
+  - All errors encountered
+  - Confirmation that the issue appears backend-side
+- Awaiting Microsoft Support escalation, investigation, and next guidance.
+
+#### Activity Summary
+- No repo structural changes today.
+- README.md documentation updated to reflect troubleshooting progress.
+- Light activity day due to high pressure and tenant-level technical blocks.
+
+#### Notes
+- This issue continues to cause stress due to the volume of files stored in SharePoint/OneDrive and the long duration of the Access Denied problem.
+- Maintaining documentation-only entries helps preserve consistency and ensures dev renewal signals remain active.
+- Continuing the dev journey despite setbacks is recognized as significant progress for long-term discipline and stability.
+
+---
