@@ -434,3 +434,39 @@
 - Weekday development activities will resume gradually once ready and as external updates allow.
 
 ---
+
+
+### UC Day 12 – 71 days remaining (March 15, 2026, Sunday) – Documentation-only (Weekend)
+
+- **Planned Date:** March 15, 2026 (71 days remaining)
+- **Actual Run:** March 15, 2026 – [add time] GMT+8
+- **Status:** Completed (documentation-only; weekend, no dev execution)
+
+#### Situation / Context
+- Weekend documentation-only entry.
+- Microsoft Support provided a formal response confirming that the SharePoint / OneDrive “Access Denied” issue is a **service-level incident**.
+- Support clarified that the ticket is **temporarily archived for procedural reasons**, while the issue **remains tracked internally**.
+- Microsoft confirmed that the issue has been impacting the tenant since **October 2025** and is currently under backend remediation.
+
+#### Microsoft Support Update (Email Logged Today)
+- Support confirmed that:
+  - The case is **not closed or dismissed**.
+  - The ticket is archived only to avoid idle-status flags.
+  - The issue continues to be monitored internally by Microsoft.
+  - The case can be reactivated at any time if needed.
+- Next official Microsoft update is scheduled for **March 31, 2026**.
+
+#### Planned Action
+- No immediate follow-up required.
+- A follow-up or case reactivation will be initiated **on or after March 31, 2026**, based on Microsoft’s update or lack thereof.
+
+#### Activity Summary
+- No GitHub repository changes.
+- No PowerShell, Graph, or admin center activity.
+- README.md updated only for documentation and tracking.
+
+#### Notes
+- UC Day 12 logged to formally capture Microsoft Support’s confirmation email.
+- Weekend remains reserved for rest and reset while awaiting backend resolution.
+
+---
