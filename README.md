@@ -593,3 +593,38 @@
 - Once platform access is restored, the documented journey and disciplined process will serve as the basis for building guidance that may help others navigate similar challenges.
 
 ---
+
+
+### UC Day 17 – 66 days remaining (March 20, 2026, Friday)
+
+- **Planned Date:** March 20, 2026 (66 days remaining)
+- **Actual Run:** March 20, 2026 – 10:19 GMT+8
+- **Status:** Completed (light dev activities – holiday schedule)
+
+#### Situation / Context
+- Local holiday; dev activities executed early in the morning.
+- Focused on lightweight, low-time-commitment tasks to maintain renewal signals.
+- Activities limited intentionally to allow personal time with family during a long weekend.
+
+#### Dev Activities Performed
+- Created a new cycle folder to scope the current developer renewal period:
+  - `/cycle-83-days`
+- Added a dedicated cycle overview file using a distinct naming convention:
+  - `/cycle-83-days/README2.md`
+  - Purpose: provide clear identification and separation from the main `README.md` and secondary `README1.md`.
+- Added a supporting notes folder for future gradual documentation:
+  - `/cycle-83-days/notes`
+
+#### Activity Summary
+- Introduced minimal but meaningful structure for the 83-day cycle.
+- No SharePoint / OneDrive access attempted due to ongoing service incident.
+- No PowerShell, admin center, or heavy technical actions performed.
+- Maintained clean, beginner-friendly repository structure.
+
+#### Notes
+- UC Day 17 logged as a successful light dev day.
+- Structure-first approach continues for clarity and sustainability.
+- Further expansion of cycle files will be done gradually on regular weekdays.
+``
+
+---
