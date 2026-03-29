@@ -8,6 +8,13 @@ No entries yet.
 ---
 
 
+## Ongoing Notes
+This file captures short, real-time development notes,
+reflections, and context across UC days.
+
+---
+
+
 ## UC Day 22 – March 25, 2026
 - Light dev session due to limited internet access.
 - Focused on continuity and repo familiarity.
@@ -29,5 +36,13 @@ No entries yet.
 - Focused on continuity and stability.
 - Actual run: March 28, 2026 11:22 GMT+8
 
+
+---
+
+
+## UC Day 27 – March 30, 2026
+- Morning development session completed with clear focus.
+- Reviewed repo structure and documentation flow.
+- Preparing the groundwork for deeper tasks ahead.
 
 ---
