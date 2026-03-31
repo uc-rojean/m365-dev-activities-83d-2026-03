@@ -46,3 +46,13 @@ reflections, and context across UC days.
 - Preparing the groundwork for deeper tasks ahead.
 
 ---
+
+
+## UC Day 28 – March 31, 2026
+- Light development session completed.
+- Follow-up email sent to Microsoft Support regarding SP/OD access issue.
+- No response received as of this session.
+- Focused on maintaining continuity while awaiting backend update.
+
+
+---
