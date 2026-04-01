@@ -56,3 +56,12 @@ reflections, and context across UC days.
 
 
 ---
+
+
+## UC Day 29 – April 01, 2026
+- Development activities executed after scheduled date.
+- Runtime noted as April 02, 2026 01:13 GMT+8.
+- Focused on maintaining continuity amid unresolved SP/OD access issue.
+- Awaiting next steps for Microsoft Support case handling.
+
+---
