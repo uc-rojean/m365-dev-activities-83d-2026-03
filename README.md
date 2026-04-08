@@ -1059,3 +1059,28 @@
 ``
 
 ---
+
+
+### UC Day 36 – 47 days remaining (April 08, 2026, Wednesday)
+- **Planned Date:** April 08, 2026 (47 days remaining)
+- **Actual Run:** April 08, 2026 16:52 GMT+8 — Development activities completed
+- **Status:** Completed
+
+#### Situation / Context
+- UC Day 36 continues the architecture-first development phase initiated on UC Day 35.
+- SharePoint and OneDrive access remain unavailable, but active remediation is ongoing with Microsoft Support.
+- Development activities were intentionally focused on execution readiness to ensure rapid progress once SP/OD access is restored.
+
+#### Dev Activities
+- Created a new `ROADMAP.md` file to define near-term and medium-term development direction.
+- Structured development phases covering stabilization, resumption, and optimization.
+- Added an execution readiness checklist to support immediate activation once service access is restored.
+- Continued SP/OD-independent development to maintain momentum and strong renewal signaling.
+
+#### Notes
+- UC Day 36 reinforces a transition toward roadmap-driven and execution-ready development practices.
+- The combination of architecture documentation and roadmap planning demonstrates sustained engagement despite service limitations.
+- These activities support continuity, resilience, and preparedness for post-recovery execution.
+``
+
+---
