@@ -17,9 +17,3 @@ Primary focus: SharePoint and OneDrive access restoration.
 - Awaiting next steps or confirmation from Microsoft backend teams.
 
 ---
-
-
-- Active Microsoft Support engagement underway to resolve SP/OD access denial.
-- Development continues in parallel while backend remediation proceeds.
-
----
