@@ -43,3 +43,9 @@ Documentation, planning, and structure are treated as first-class work.
 ``
 
 ---
+
+
+- Active Microsoft Support engagement underway to resolve SP/OD access denial.
+- Development continues in parallel while backend remediation proceeds.
+
+---
