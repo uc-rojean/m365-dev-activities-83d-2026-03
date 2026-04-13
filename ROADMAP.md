@@ -39,3 +39,8 @@ SharePoint and OneDrive access is restored.
 - [ ] Outstanding support case formally closed
 
 ---
+
+
+- Refer to RISKS.md for active risk tracking and mitigation strategies.
+
+---
