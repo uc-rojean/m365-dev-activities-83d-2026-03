@@ -1404,31 +1404,84 @@
 - **Actual Run:** April 19, 2026 12:13 GMT+8 — Documentation-only entry
 - **Status:** Logged (weekend documentation)
 
+---
+
+## DEV SANDBOX TENANT STATUS
+
 #### Situation / Context
-- UC Day 47 recorded as documentation-only, in accordance with the weekend documentation rule.
-- No new updates have been received from Microsoft Support regarding the SharePoint and OneDrive (SP/OD) access denied issue.
-- The commercial tenant setup is still undergoing domain and service propagation.
+- The Microsoft 365 Developer sandbox tenant remains **actively maintained** for UC tracking and renewal signaling.
+- SharePoint and OneDrive (SP/OD) access in the sandbox tenant is still **denied** and pending backend resolution.
+- No new updates have been received from Microsoft Support regarding the sandbox SP/OD issue as of this session.
 
-#### Platform & Environment Status
-- Development sandbox tenant remains active and continues to be used for UC tracking and dev activities.
-- SP/OD access in the sandbox tenant is still denied and pending backend resolution.
-- The commercial tenant was established to securely separate personal custom domains used for emails, banking, social accounts, billing, and identity-related purposes.
-- No production work has been migrated yet, pending full propagation confirmation and support validation.
+#### Purpose of Dev Sandbox Tenant
+- Preserve continuous development activity signals
+- Maximize license and renewal windows
+- Maintain UC activity logs, README updates, and technical artifacts
+- Treat the sandbox tenant as **experimental and non‑production**
 
-#### Dev Activities
+---
+
+## COMMERCIAL TENANT STATUS
+
+#### Situation / Context
+- A commercial Microsoft 365 tenant was **initiated on April 17, 2026**.
+- This decision was made after Copilot functionality was no longer supported in the Word desktop ribbon under the developer sandbox environment.
+- The commercial tenant serves as the **primary production environment for identity, documentation continuity, and business development**.
+
+#### Purpose of Commercial Tenant
+- Secure personal custom domains used for:
+  - personal email
+  - banking
+  - billing
+  - social media accounts
+  - identity‑critical records
+- Enable uninterrupted documentation flow via:
+  - Copilot Chat (Basic)
+  - Word document–based session continuity
+  - Cloud-based knowledge storage (README + Word)
+- Prepare for long‑term business development and future interest
+
+#### Current Commercial Tenant Status
+- Business Basic (no Teams) **trial license** is active
+- Domain and service propagation are **still in progress**
+- No production data uploads have started yet
+- All actions remain **deliberate and gated** until propagation and validation are completed
+
+---
+
+## DOCUMENTATION DISCIPLINE
+
+#### Documentation Locations
+- **Cloud-based documentation:** README.md (GitHub)
+- **Local / structured documentation:** Microsoft Word documents
+- Both sources are maintained to ensure:
+  - continuity
+  - redundancy
+  - audit‑grade traceability
+
+---
+
+## Dev Activities
 - No development tasks executed on this date.
-- Documentation updated to preserve continuity and accurately reflect current platform status.
+- Documentation updated to reflect tenant separation, scope clarity, and platform transition rationale.
+- Weekend documentation rule fully observed.
 
-#### Support & Escalation Tracking
-- Microsoft Support case remains open.
-- No new communication received from the support team as of this update.
-- Next action will be taken once either:
-  - Support confirms progress or resolution, or
-  - Commercial tenant propagation is verified as complete.
+---
 
-#### Notes
-- UC Day 47 reflects a controlled pause while awaiting critical external dependencies.
-- Documentation discipline continues even during inactive periods.
-- The focus remains on stability, security, and long-term continuity rather than rushed transitions.
+## Support & Escalation Tracking
+- Microsoft Support case for dev sandbox tenant remains open.
+- No new communication received from Support as of this update.
+- Next actions are contingent on:
+  - sandbox SP/OD access resolution, and/or
+  - completion of commercial tenant propagation
+
+---
+
+## Notes
+- UC Day 47 formally establishes **clear separation of responsibilities** between:
+  - development sandbox operations, and
+  - commercial/production operations.
+- This separation is intentional and necessary to avoid confusion for readers, followers, and future audits.
+- All decisions and transitions continue to be documented transparently and chronologically.
 
 ---
